@@ -1,7 +1,8 @@
 
-# OpenUtau
+# OpenUtau-alpha
 
 OpenUtau is a free, open-source editor made for the UTAU community.
+OpenUtau-alpha is a fork of OpenUtau that builds the latest commits. Will update new releases as needed. **No fork-exclusive features.**
 
 [![Build](https://img.shields.io/github/actions/workflow/status/stakira/OpenUtau/build.yml?style=for-the-badge)](https://github.com/stakira/OpenUtau/actions/workflows/build.yml)
 [![Discord](https://img.shields.io/discord/551606189386104834?style=for-the-badge&label=discord&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/UfpMnqMmEM)
@@ -10,10 +11,11 @@ OpenUtau is a free, open-source editor made for the UTAU community.
 
 ## Getting started
 
-[![Download](https://img.shields.io/static/v1?style=for-the-badge&logo=github&label=download&message=windows-x64&labelColor=FF347C&color=4ea6ea)](https://github.com/stakira/OpenUtau/releases/latest/download/OpenUtau-win-x64.zip)</br>
-[![Download](https://img.shields.io/static/v1?style=for-the-badge&logo=github&label=download&message=windows-x86&labelColor=FF347C&color=4ea6ea)](https://github.com/stakira/OpenUtau/releases/latest/download/OpenUtau-win-x86.zip)</br>
-[![Download](https://img.shields.io/static/v1?style=for-the-badge&logo=github&label=download&message=macos-x64&labelColor=FF347C&color=4ea6ea)](https://github.com/stakira/OpenUtau/releases/latest/download/OpenUtau-osx-x64.dmg)</br>
-[![Download](https://img.shields.io/static/v1?style=for-the-badge&logo=github&label=download&message=linux-x64&labelColor=FF347C&color=4ea6ea)](https://github.com/stakira/OpenUtau/releases/latest/download/OpenUtau-linux-x64.tar.gz)
+Download **OpenUtau-alpha**!
+[![Download](https://img.shields.io/static/v1?style=for-the-badge&logo=github&label=download&message=windows-x64&labelColor=FF347C&color=4ea6ea)](https://github.com/inukaishouvt/OpenUtau-alpha/releases/latest/download/OpenUtau-win-x64.zip)</br>
+[![Download](https://img.shields.io/static/v1?style=for-the-badge&logo=github&label=download&message=windows-x86&labelColor=FF347C&color=4ea6ea)](https://github.com/inukaishouvt/OpenUtau-alpha/releases/latest/download/OpenUtau-win-x86.zip)</br>
+[![Download](https://img.shields.io/static/v1?style=for-the-badge&logo=github&label=download&message=macos-x64&labelColor=FF347C&color=4ea6ea)](https://github.com/inukaishouvt/OpenUtau-alpha/releases/latest/download/OpenUtau-osx-x64.dmg)</br>
+[![Download](https://img.shields.io/static/v1?style=for-the-badge&logo=github&label=download&message=linux-x64&labelColor=FF347C&color=4ea6ea)](https://github.com/inukaishouvt/OpenUtau-alpha/releases/latest/download/OpenUtau-linux-x64.tar.gz)
 
 It is **strongly recommended** that you read these Github wiki pages before using the software.
 - [Getting-Started](https://github.com/stakira/OpenUtau/wiki/Getting-Started)
@@ -26,17 +28,17 @@ It is **strongly recommended** that you read these Github wiki pages before usin
 ## How to contribute
 
 Tried OpenUtau and not satisfied? Don't just walk away! You can help:
-- Report issues on our [Discord server](https://discord.gg/UfpMnqMmEM) or Github.
+- Report issues on OpenUtau's official [Discord server](https://discord.gg/UfpMnqMmEM) or [Github](https://github.com/stakira/OpenUtau).
 - Suggest features on Discord or Github.
 - Add or update translations for your language on [Crowdin](https://crowdin.com/project/oxygen-dioxideopenutau).
 
 Know how to code? Got an idea for an improvement? Don't keep it to yourself!
-- Contribute fixes via pull requests.
+- Contribute fixes via [pull requests](https://github.com/stakira/OpenUtau/pulls).
 - Check out the development roadmap on [Trello](https://trello.com/b/93ANoCIV/openutau) and discuss it on Discord.
 
 ## Plugin development
 
-Want to contribute plugins to help other users? Check out our API documentation:
+Want to contribute plugins to help other users? Check out their API documentation:
 - [Editing Macros API Document](OpenUtau.Core/Editing/README.md)
 - [Phonemizers API Document](OpenUtau.Core/Api/README.md)
 
