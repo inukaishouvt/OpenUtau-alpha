@@ -12,6 +12,7 @@ OpenUtau-alpha is a fork of OpenUtau that builds the latest commits. Will update
 ## Getting started
 
 Download **OpenUtau-alpha**!
+
 [![Download](https://img.shields.io/static/v1?style=for-the-badge&logo=github&label=download&message=windows-x64&labelColor=FF347C&color=4ea6ea)](https://github.com/inukaishouvt/OpenUtau-alpha/releases/latest/download/OpenUtau-win-x64.zip)</br>
 [![Download](https://img.shields.io/static/v1?style=for-the-badge&logo=github&label=download&message=windows-x86&labelColor=FF347C&color=4ea6ea)](https://github.com/inukaishouvt/OpenUtau-alpha/releases/latest/download/OpenUtau-win-x86.zip)</br>
 [![Download](https://img.shields.io/static/v1?style=for-the-badge&logo=github&label=download&message=macos-x64&labelColor=FF347C&color=4ea6ea)](https://github.com/inukaishouvt/OpenUtau-alpha/releases/latest/download/OpenUtau-osx-x64.dmg)</br>
